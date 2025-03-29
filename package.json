@@ -4,6 +4,7 @@
   "description": "Reimplementation of posthog-js to be as light and modular as possible.",
   "workspaces": [
     "posthog-core",
+    "posthog-cloudflare",
     "posthog-node",
     "posthog-react-native",
     "posthog-web",
